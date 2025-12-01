@@ -24,15 +24,17 @@ def generate_image_with_imagen(prompt, output_path, api_key):
     try:
         model_name = "imagen-4.0-fast-generate-001"
         url = f"https://generativelanguage.googleapis.com/v1beta/models/{model_name}:predict?key={api_key}"
-        
+
         headers = {
             "Content-Type": "application/json"
         }
-        
-        # Add "Academic figure, IEEE/CVPR paper style, schematic, clean lines, white background" to prompt if not present
-        style_prompt = "Academic figure, IEEE/CVPR paper style, schematic, clean lines, white background"
+
+        style_prompt = (
+            "Landscape flashcard background, rounded corners, soft gradient, subtle paper texture,"
+            " ample white space for text"
+        )
         full_prompt = prompt
-        if "Academic figure" not in prompt:
+        if "flashcard" not in prompt and "card background" not in prompt:
             full_prompt = f"{prompt}, {style_prompt}"
             
         data = {
