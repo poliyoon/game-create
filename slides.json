@@ -8,7 +8,7 @@
                 "지속적인 학습을 위한 동기 부여",
                 "실천 가능한 구체적인 방법론 제시"
             ],
-            "image_prompt": "A conceptual diagram showing 5 interconnected nodes representing different language skills (Reading, Writing, Listening, Speaking, Vocabulary), Academic figure, IEEE/CVPR paper style, schematic, clean lines, white background"
+            "image_prompt": "Landscape study card background with five soft gradient panels for Reading, Writing, Listening, Speaking, and Vocabulary, rounded corners, subtle paper texture, clean white space, modern color palette"
         },
         {
             "title": "1. 꾸준한 듣기 연습 (Consistent Listening Practice)",
@@ -18,7 +18,7 @@
                 "자투리 시간을 활용한 흘려듣기 생활화",
                 "다양한 발음과 속도에 익숙해지기"
             ],
-            "image_prompt": "A schematic diagram illustrating the process of auditory input processing and shadowing loop, Academic figure, IEEE/CVPR paper style, schematic, clean lines, white background"
+            "image_prompt": "Horizontal flashcard background featuring headphones, waveform, and repetition arrows, soft teal and purple gradients, rounded border, lightly grained texture, spacious layout for text overlay"
         },
         {
             "title": "2. 어휘력 확장 (Expanding Vocabulary)",
@@ -28,7 +28,7 @@
                 "에빙하우스의 망각 곡선을 고려한 분산 반복(Spaced Repetition)",
                 "동의어, 반의어, 파생어 함께 익히기"
             ],
-            "image_prompt": "A graph showing the forgetting curve and the effect of spaced repetition on vocabulary retention, Academic figure, IEEE/CVPR paper style, schematic, clean lines, white background"
+            "image_prompt": "Modern flashcard-style background with layered cards, a gentle curve chart, and spaced repetition icons, pastel orange and mint gradient, rounded corners, subtle grid texture"
         },
         {
             "title": "3. 말하기와 발음 교정 (Speaking & Pronunciation)",
@@ -38,7 +38,7 @@
                 "정확한 발음 기호 및 강세 파악",
                 "실수를 두려워하지 않는 자신감 있는 태도"
             ],
-            "image_prompt": "A flowchart depicting the feedback loop of speaking, recording, analyzing, and correcting pronunciation, Academic figure, IEEE/CVPR paper style, schematic, clean lines, white background"
+            "image_prompt": "Clean landscape card background with two chat bubbles, microphone icon, and feedback arrows, coral and navy gradient, soft glow around rounded edges, minimal texture"
         },
         {
             "title": "4. 영작문 연습 (English Writing Practice)",
@@ -48,7 +48,7 @@
                 "첨삭 도구(Grammarly 등)나 전문가의 피드백 활용",
                 "다양한 문장 구조와 표현 시도"
             ],
-            "image_prompt": "A structural diagram showing the components of effective writing: grammar, vocabulary, structure, and flow, Academic figure, IEEE/CVPR paper style, schematic, clean lines, white background"
+            "image_prompt": "Elegant card background showing notebook lines, pen illustration, and checklist icons, blue and cream gradient, rounded corners, light paper grain, open space for overlay text"
         },
         {
             "title": "5. 영어로 생각하기 (Thinking in English)",
@@ -58,7 +58,7 @@
                 "영어식 사고방식과 문화 이해",
                 "내적 독백(Internal Monologue)을 영어로 수행"
             ],
-            "image_prompt": "A cognitive model diagram illustrating the direct link between concept and English expression without translation, Academic figure, IEEE/CVPR paper style, schematic, clean lines, white background"
+            "image_prompt": "Landscape flashcard background with a thought cloud, arrows pointing directly to English keywords, soft lavender and blue gradient, rounded edges, calm textured backdrop"
         }
     ]
 }
