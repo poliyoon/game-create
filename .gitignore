@@ -1,0 +1,10 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+*.pptx
+generated_images/
+available_models.txt
+test_image.png
+test_image_prefix.png
+test_rest_image.png
